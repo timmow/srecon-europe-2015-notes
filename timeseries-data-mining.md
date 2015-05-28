@@ -38,4 +38,35 @@ need to take into account lots of context
 
 periodic oscillations can sometimes appear from nowhere, or disappear
 
+trends change, baselines shift - constant growth flatlines
+
+rare discrete events become more frequent or infrequent
+
+all above are signs of something wrong, outlier detection will not pick up
+
+its usually not even a problem
+
+kale 2.0 - phase 1 is thyme
+
+library of algorithms and composable processing steps
+
+reactivex framework
+
+supports flexible experimentation / prototyping.
+
+live demo of recording from microphone, picking up anamolies when clapping and
+applause
+
+keep architecture simple
+
+good fit for problem - doesnt mean add to your stack
+
+dont relase platform / product, unless you use it yourself
+
+anamoly detection is more than outlier detection
+
+kale had a good ui
+timseries similarity was good
+ensemble methods / auto calibration was good
+
 
